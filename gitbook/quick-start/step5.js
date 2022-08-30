@@ -3,10 +3,7 @@ const ain = new Ain('https://testnet-api.ainetwork.ai', 0);
 
 // Copy and paste private_key from step2-3.js
 const private_key = 'COPY-AND-PASTE-PRIVATE-KEY';
-
 const myAddress = ain.wallet.addAndSetDefaultAccount(private_key);
-
-console.log(myAddress);
 
 /**
  * Transfer 0.1 AIN to 0x99bBa0051DDdf7b69972602512661915fdD8eE89

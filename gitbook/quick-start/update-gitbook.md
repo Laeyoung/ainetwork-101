@@ -18,7 +18,14 @@
 
 ### [Step7](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-7.-create-your-own-app)
 
-1. 이 내용이 필요한가? Quick Start에? 이걸 쓰는 경우가 있는가?
+1. 코드 들여쓰기가 이상함
+2. const appName = 'ainetwork_101-0x80028' 이 이름으로는 안 만들어지는데 에러 메세지로는 뭐 때문인지 알 수 가 없음.
+3. appName 중복일 때도 에러 메세지로 알 수가 없음. insight appName 뭐 쓰고 있나 확인해 보라고 해야할듯
+4. 의견) Create App 말고 Register App 이런 표현 맞는거 같은데?
+
+### [Step8](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-8.-publish-your-own-app)
+
+1. Step 7에서 했던 Create App은 뭐고, Step 8에서 하는 Publish App은 뭔가?
 
 ### 전체 내용
 
