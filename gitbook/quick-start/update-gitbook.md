@@ -22,10 +22,21 @@
 2. const appName = 'ainetwork_101-0x80028' 이 이름으로는 안 만들어지는데 에러 메세지로는 뭐 때문인지 알 수 가 없음.
 3. appName 중복일 때도 에러 메세지로 알 수가 없음. insight appName 뭐 쓰고 있나 확인해 보라고 해야할듯
 4. 의견) Create App 말고 Register App 이런 표현 맞는거 같은데?
+5. insight에서 보는 내가 만든 app에 관련된 상세 설명 링크가 필요할듯
 
 ### [Step8](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-8.-publish-your-own-app)
 
 1. Step 7에서 했던 Create App은 뭐고, Step 8에서 하는 Publish App은 뭔가?
+
+### [Step9](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-9.-set-an-event-listener)
+
+1. 이게 무슨 말이야...
+2. https://testnet-insight.ainetwork.ai/database/values/manage_app/ainetwork101_7 에 trigger에 대한 정보가 등록 되어야 하는거 아닌가? 어디간거니?
+3. $user_addr 에 대한 설명 필요
+4. $timestamp 에 대한 설명 필요
+5. /user 에 대한 설명 필요
+6. http://echo-bot.ainetwork.ai/trigger 가 어떤 건지에 대한 설명 필요
+7. http://echo-bot.ainetwork.ai/trigger 를 https로 바꿔야함
 
 ### 전체 내용
 
