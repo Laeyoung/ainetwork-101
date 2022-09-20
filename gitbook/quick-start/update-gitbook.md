@@ -12,8 +12,8 @@
 2. `ADDRESS_TO_SEND_AIN_TO` 를 넣는게 무척 막막함. 여기서는 그냥 address를 알려주는게 맞을 것 같음. (괜찮으면 이거 쓰세요 0x99bBa0051DDdf7b69972602512661915fdD8eE89). 저 sample address에 쌓인 AIN이나 TX로 Quick Start를 몇명이나 진행 했는지 간접적으로 알 수 있음. Testnet이 reset 되기 전까지는.
     - yoojin) 고정된 address를 줄 경우 AI network insight 링크로 직접 계정 정보 페이지로 넘겨주는 링크도 첨부하면 좋을 것 같음.
       https://testnet-insight.ainetwork.ai/accounts/0x99bBa0051DDdf7b69972602512661915fdD8eE89
-      -> 이 경우 간단한 insight ui 설명 이미지도 추가되면 좋을 듯.
-      --> 현재 insight에서는 account 정보에서 balance의 변화로만 transfer 결과를 확인할 수 있음.
+      -> 이 경우 간단한 insight ui 설명 이미지나 docs의 insight 파트 링크도 추가되면 좋을 듯.
+      --> 현재 insight에서는 account 정보에서 balance의 변화로만 transfer 결과를 확인할 수 있음. (tx 확인 불가)
 3. Faucet은 1 AIN을 주는데, step 5에서는 10 AIN을 보내라고 함. 0.1 AIN 정도로 바꾸면 좋을 듯
 
 ### [Step6](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-6.-optional-setting-the-nonce-of-your-transaction)
@@ -41,6 +41,8 @@
 5. /user 에 대한 설명 필요
 6. http://echo-bot.ainetwork.ai/trigger 가 어떤 건지에 대한 설명 필요
 7. http://echo-bot.ainetwork.ai/trigger 를 https로 바꿔야함
+8. yoojin) url의 $ 붙은 부분이 wild card라면 "$ is Wild card" 처럼 수정하는게 더 직관적일 것 같음.
+9. yoojin) wild card 가 채워진 url로 echo bot을 사용하는 예시가 있으면 좋겠음. 어떻게 사용할지 난해함.
 
 ### 전체 내용
 
