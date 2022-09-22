@@ -3,7 +3,7 @@ const ain = new Ain('https://testnet-api.ainetwork.ai', 0);
 
 // Import the account you've created in Step 3.
 const private_key = 'COPY-AND-PASTE-PRIVATE-KEY';
-const myAddress = ain.wallet.defaultAccount.address;ain.wallet.addAndSetDefaultAccount(private_key);
+const myAddress = ain.wallet.addAndSetDefaultAccount(private_key);
 
 const appName = 'YOUR-UNIQUE-APP-NAME'; // from step7.js
 const appPath = `/apps/${appName}`;
