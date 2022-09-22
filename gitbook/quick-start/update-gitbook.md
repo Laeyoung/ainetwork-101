@@ -42,8 +42,12 @@
 6. http://echo-bot.ainetwork.ai/trigger 가 어떤 건지에 대한 설명 필요
 7. http://echo-bot.ainetwork.ai/trigger 를 https로 바꿔야함
 8. yoojin) url의 $ 붙은 부분이 wild card라면 "$ is Wild card" 처럼 수정하는게 더 직관적일 것 같음.
-9. yoojin) wild card 가 채워진 url로 echo bot을 사용하는 예시가 있으면 좋겠음. 어떻게 사용할지 난해함.
+
+### [Step10](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-10.-set-values)
+
+1. getValue()를 Full code가 아니라 setValue() 다음에 바로 이어붙일 수 있도록  하는 것이 따라하기 더 쉬움.
 
 ### 전체 내용
 
 - Quick Start인데 너무 내용이 많지 않은가? Section이라도 나뉘어 있으면 어떨까요? 현재 구조상 Step 1 ~ 5 (일반적으로 블록체인에서는 다 있는 코인 보내기), Step 7 ~ 10 정도 (AI Network 특징)?
+- 전체적으로 이전 step에서 수행된 코드는 이후에는 중복해서 써놓지 않는게 step을 따라가기 더 수월함.
