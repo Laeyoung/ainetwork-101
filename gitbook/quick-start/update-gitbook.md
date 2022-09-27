@@ -41,7 +41,7 @@
 4. $timestamp 에 대한 설명 필요
 5. /user 에 대한 설명 필요
 6. http://echo-bot.ainetwork.ai/trigger 가 어떤 건지에 대한 설명 필요
-7. http://echo-bot.ainetwork.ai/trigger 를 https로 바꿔야함
+7. [x] http://echo-bot.ainetwork.ai/trigger 를 https로 바꿔야함 -> 인증서가 안 붙어 있어서 그런지 https로 접속하면 작동 
 8. yoojin) url의 $ 붙은 부분이 wild card라면 "$ is Wild card" 처럼 수정하는게 더 직관적일 것 같음.
 
 ### [Step10](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-10.-set-values)
