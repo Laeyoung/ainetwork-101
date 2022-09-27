@@ -27,6 +27,7 @@
 3. appName 중복일 때도 에러 메세지로 알 수가 없음. insight appName 뭐 쓰고 있나 확인해 보라고 해야할듯
 4. 의견) Create App 말고 Register App 이런 표현 맞는거 같은데?
 5. insight에서 보는 내가 만든 app에 관련된 상세 설명 링크가 필요할듯
+6. getOwner() fuction 체크하는 코드가 await를 안 써서, 순서대로 된다는 보장을 해 줄 수 
 
 ### [Step8](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-8.-publish-your-own-app)
 
