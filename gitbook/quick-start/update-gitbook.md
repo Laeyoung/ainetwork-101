@@ -31,7 +31,7 @@
 
 ### [Step8](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-8.-publish-your-own-app)
 
-1. Step 7에서 했던 Create App은 뭐고, Step 8에서 하는 Publish App은 뭔가?
+1. [x] Step 7에서 했던 Create App은 뭐고, Step 8에서 하는 Publish App은 뭔가? -> make your app public 으로 변경
 
 ### [Step9](https://docs.ainetwork.ai/ain-blockchain/developer-guide/getting-started#step-9.-set-an-event-listener)
 
